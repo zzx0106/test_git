@@ -14,6 +14,8 @@ import './app.scss';
 //   require('nerv-devtools')
 // }
 
+// 注释
+
 const store = configStore();
 
 class App extends Component {
