@@ -29,7 +29,7 @@ class App extends Component {
     },
   };
 
-  componentDidMou222nt() {}
+  componentDidMount123() {}
 
   componentDidShow() {}
 
