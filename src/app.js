@@ -29,7 +29,9 @@ class App extends Component {
     },
   };
 
-  componentDidMount123() {}
+  componentDidMount123() {
+    console.log();
+  }
 
   componentDidShow() {}
 
