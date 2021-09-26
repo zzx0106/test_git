@@ -1,0 +1,112 @@
+page {
+  position: relative;
+  background-color: #fff;
+}
+
+.header_bg_wrapper--32_HY {
+  background-image: url(https://static-1253442168.file.myqcloud.com/xupload/20210721_bg2.png);
+  background-repeat: no-repeat;
+  background-size: 100% 358rpx;
+  background-position: contain;
+  height: 358rpx;
+  padding: 28rpx 40rpx 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-top: -2rpx;
+}
+
+.left_cell--228Pa {
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+
+.content--1nnm6 {
+  max-width: 72%;
+}
+
+.avatar--26UWY {
+  height: 110rpx;
+  width: 110rpx;
+  border-radius: 50%;
+  border: 4rpx solid #fff;
+  margin-right: 16rpx;
+}
+
+.strong--TE8xg {
+  font-size: 60rpx;
+  font-weight: bolder;
+  color: #fff;
+  line-height: 84rpx;
+  letter-spacing: -2rpx;
+  margin-right: 8rpx;
+}
+
+.layout--7yIqU {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.title--1jDST {
+  font-size: 32rpx;
+  color: #fff;
+  line-height: 44rpx;
+}
+
+.subtitle--2K7Pp {
+  font-size: 24rpx;
+  color: #fff;
+  line-height: 34rpx;
+}
+
+.button--1nIbw {
+  font-weight: bolder;
+  font-size: 28rpx;
+  color: #8c67d6;
+  width: 174rpx;
+  height: 60rpx;
+  background: #ffffff;
+  border-radius: 30rpx;
+  text-align: center;
+  line-height: 60rpx;
+}
+
+@media screen and (max-width: 375px) {
+  .content-wrapper--11KO9 {
+    top: -150rpx;
+  }
+}
+
+.empty_container--1QB-P {
+  padding-top: 102rpx;
+  text-align: center;
+  border-radius: 36rpx 36rpx 0 0;
+  position: relative;
+  top: -165rpx;
+  background-color: #fff;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.flex--7Gjzr {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.hover-class--3_ytS {
+  opacity: 0.8;
+}

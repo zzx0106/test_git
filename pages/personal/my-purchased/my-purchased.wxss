@@ -1,0 +1,44 @@
+.purchased_container--3zf8M {
+  padding: 40rpx 32rpx;
+}
+.purchased_container--3zf8M .item_wrapper--3529p {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 26rpx 32rpx;
+  background: #ffffff;
+  border-radius: 20rpx;
+  -webkit-box-shadow: 0 2rpx 22rpx 2rpx rgba(222, 222, 222, 0.5);
+          box-shadow: 0 2rpx 22rpx 2rpx rgba(222, 222, 222, 0.5);
+  margin-bottom: 42rpx;
+}
+.purchased_container--3zf8M .item_icon--3IyMO {
+  width: 164rpx;
+  height: 162rpx;
+  margin-right: 28rpx;
+}
+.purchased_container--3zf8M .title--3j8YU {
+  font-size: 32rpx;
+  font-weight: bolder;
+  color: #1b1c21;
+  line-height: 52rpx;
+  max-width: 12em;
+  white-space: nowrap;
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+}
+.purchased_container--3zf8M .sub_title--1Mqr1 {
+  font-size: 32rpx;
+  color: #1b1c21;
+  line-height: 48rpx;
+  margin: 10rpx 0 30rpx;
+}
+.purchased_container--3zf8M .date--1M5Xx {
+  font-size: 24rpx;
+  color: #c4c6cf;
+  line-height: 34rpx;
+}

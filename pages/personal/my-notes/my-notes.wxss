@@ -1,0 +1,125 @@
+.scroll_view_container--3orV0 {
+  max-height: 100vh;
+  position: absolute;
+  padding: 40rpx 0;
+}
+
+.my_notes_container--3WzSN {
+  padding: 0 32rpx;
+}
+
+.item_content--Ov09j {
+  background: #ffffff;
+  border-radius: 20rpx;
+  -webkit-box-shadow: 0 2rpx 22rpx 2rpx rgba(222, 222, 222, 0.5);
+          box-shadow: 0 2rpx 22rpx 2rpx rgba(222, 222, 222, 0.5);
+  padding: 20rpx 32rpx 38rpx;
+  margin-bottom: 40rpx;
+}
+
+.item_header--21ix5 {
+  border-bottom: 2rpx dashed #F0F0F0;
+  padding-bottom: 26rpx;
+}
+
+.icon-gengduo--3gWF7 {
+  color: #777A8B;
+}
+
+.flex--22mV6 {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.title--248R8 {
+  font-size: 32rpx;
+  font-weight: bolder;
+  color: #1b1c21;
+  line-height: 52rpx;
+  max-width: 8em;
+  white-space: nowrap;
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  margin-right: 16rpx;
+}
+
+.light_text--1KxRX {
+  font-size: 28rpx;
+  color: #505159;
+  line-height: 40rpx;
+}
+
+.note_info--22E7o {
+  font-size: 32rpx;
+  color: #1b1c21;
+  line-height: 48rpx;
+  margin-top: 22rpx;
+}
+
+.note_info_hide--2WxdG {
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.footer_more--3zMKF {
+  font-size: 24rpx;
+  color: #c4c6cf;
+  padding-top: 22rpx;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.rote--_-i9a {
+  -webkit-transform: rotate(180deg);
+      -ms-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.arrow_down--W2vCp {
+  width: 34rpx;
+  height: 34rpx;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.bottom_line--3zFfV {
+  text-align: center;
+  color: #ccc;
+  font-size: 20rpx;
+}
+.note-info {
+  font-size: 32rpx;
+  color: #1b1c21;
+  line-height: 48rpx;
+  margin-top: 22rpx;
+  word-break: break-all;
+}
+
+.note-info-hide {
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
